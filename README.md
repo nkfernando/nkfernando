@@ -43,13 +43,35 @@ This service uses native SVG animations that bypass GitHub's image blocker compl
       <p>A high-performance video-to-GIF converter built natively as a Figma plugin. Utilizes client-side WebAssembly (FFmpeg.wasm) to guarantee absolute data privacy and ultra-fast processing speeds right in the browser.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="Wasm" />
-        <img src="https://img.shields.io/badge/Figma_API-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+        <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="Wasm" />
       </p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME" target="_blank">📄 Source Code</a> | 
+      <a href="https://github.com/nkfernando/GifForge" target="_blank">📄 Source Code</a> | 
       <a href="https://YOUR_LIVE_DEMO_URL" target="_blank">🌐 Live Demo</a>
     </td>
     <!-- Project 2 -->
+    <td width="50%" valign="top">
+      <h4>✂️ Clear-cut</h4>
+      <p>A high-performance, client-side AI background removal web application. Leverages in-browser machine learning execution models to isolate and strip image backgrounds instantly with zero server overhead, ensuring absolute user data privacy.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Client--Side_AI-00E5FF?style=flat-square&logo=preact&logoColor=black" alt="Client AI" />
+      </p>
+      <a href="https://github.com/nkfernando/clear-cut" target="_blank">📄 Source Code</a> | 
+      <a href="https://clear-cut-org.vercel.app/" target="_blank">🌐 Live Site</a>
+    </td>
+    <!-- Project 1 -->
+    <td width="50%" valign="top">
+      <h4>🌱 GoviAtha</h4>
+      <p>A native Android application engineered to empower modern agricultural ecosystems. Built using Android Studio with a robust Java architecture, it delivers real-time resource tracking, data-driven farming insights, and essential localized tools to streamline agricultural management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio" />
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Mobile_Architecture-00E5FF?style=flat-square" alt="Mobile" />
+      </p>
+      <a href="https://github.com/nkfernando/GoviAtha_app_v0.1" target="_blank">📄 Source Code</a> | 
+    </td>
+    <!-- Project 3 -->
     <td width="50%" valign="top">
       <h4>📰 InforXnews</h4>
       <p>An SEO-optimized, lightning-fast news blogging platform engineered for extreme scalability. Built with a SaaS-centric architecture and powered by Firebase for secure, real-time data streaming and instant content rendering.</p>
@@ -58,8 +80,7 @@ This service uses native SVG animations that bypass GitHub's image blocker compl
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
         <img src="https://img.shields.io/badge/SEO_Optimized-00E676?style=flat-square" alt="SEO" />
       </p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME" target="_blank">📄 Source Code</a> | 
-      <a href="https://YOUR_LIVE_DEMO_URL" target="_blank">🌐 Live Demo</a>
+      <a href="https://inforxnews.com/" target="_blank">🌐 Live Site</a>
     </td>
   </tr>
 </table>
