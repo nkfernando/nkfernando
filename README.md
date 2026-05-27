@@ -1,5 +1,3 @@
-# Hi there, I'm a Software Engineer 👋
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/type=waving&color=gradient&height=200&section=header&text=Nirod%20Kalhara&fontSize=45&animation=twinkling&theme=tokyonight" alt="Header Banner" />
 </p>
@@ -27,39 +25,12 @@ A forward-thinking Software Engineer dedicated to crafting immersive, client-cen
 
 ### 🛠️ Tech Stack & Ecosystems
 
+<!-- 
+Using high-end dynamic Skill Icons explicitly set to dark mode with smooth animations activated.
+This service uses native SVG animations that bypass GitHub's image blocker completely.
+-->
 <p align="left">
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://github.com/rahulbanerjee26/githubAboutMeIcons/blob/main/javascript.gif?raw=true" alt="JavaScript" width="52" height="52" style="margin-right: 10px;" />
-  </a>
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/rahulbanerjee26/githubAboutMeIcons/blob/main/typescript.gif?raw=true" alt="TypeScript" width="52" height="52" style="margin-right: 10px;" />
-  </a>
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/rahulbanerjee26/githubAboutMeIcons/blob/main/react.gif?raw=true" alt="React" width="52" height="52" style="margin-right: 10px;" />
-  </a>
-  <!-- Next.js -->
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="NextJS" width="48" height="48" style="margin-right: 10px; padding-bottom: 2px;" />
-  </a>
-  <!-- Firebase -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/rahulbanerjee26/githubAboutMeIcons/blob/main/firebase.gif?raw=true" alt="Firebase" width="52" height="52" style="margin-right: 10px;" />
-  </a>
-  <!-- Supabase -->
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase" width="48" height="48" style="margin-right: 10px; padding-bottom: 2px;" />
-  </a>
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/rahulbanerjee26/githubAboutMeIcons/blob/main/figma.gif?raw=true" alt="Figma" width="52" height="52" style="margin-right: 10px;" />
-  </a>
-  <!-- WebAssembly -->
-  <a href="https://webassembly.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=wasm&theme=dark" alt="WebAssembly" width="48" height="48" style="margin-right: 10px; padding-bottom: 2px;" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,wasm,react,nextjs,firebase,supabase,figma&perline=8&theme=dark&animate=true" alt="My Tech Stack" width="100%" />
 </p>
 
 ---
@@ -69,7 +40,7 @@ A forward-thinking Software Engineer dedicated to crafting immersive, client-cen
 <table>
   <tr>
     <!-- Project 1 -->
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px; background: #0d1117;">
+    <td width="50%" valign="top">
       <h4>⚡ GifForge</h4>
       <p>A high-performance video-to-GIF converter built natively as a Figma plugin. Utilizes client-side WebAssembly (FFmpeg.wasm) to guarantee absolute data privacy and ultra-fast processing speeds right in the browser.</p>
       <p>
@@ -77,13 +48,11 @@ A forward-thinking Software Engineer dedicated to crafting immersive, client-cen
         <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="Wasm" />
         <img src="https://img.shields.io/badge/Figma_API-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
       </p>
-      <div style="margin-top: 15px;">
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME" target="_blank" style="text-decoration: none; padding: 5px 10px; background: #21262d; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; font-size: 12px; margin-right: 5px;">📄 Source Code</a>
-        <a href="https://YOUR_LIVE_DEMO_URL" target="_blank" style="text-decoration: none; padding: 5px 10px; background: #238636; border-radius: 6px; color: white; font-size: 12px; font-weight: bold;">🌐 Live Demo</a>
-      </div>
+      <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME" target="_blank">📄 Source Code</a> | 
+      <a href="https://YOUR_LIVE_DEMO_URL" target="_blank">🌐 Live Demo</a>
     </td>
     <!-- Project 2 -->
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px; background: #0d1117;">
+    <td width="50%" valign="top">
       <h4>📰 InforXnews</h4>
       <p>An SEO-optimized, lightning-fast news blogging platform engineered for extreme scalability. Built with a SaaS-centric architecture and powered by Firebase for secure, real-time data streaming and instant content rendering.</p>
       <p>
@@ -91,10 +60,8 @@ A forward-thinking Software Engineer dedicated to crafting immersive, client-cen
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
         <img src="https://img.shields.io/badge/SEO_Optimized-00E676?style=flat-square" alt="SEO" />
       </p>
-      <div style="margin-top: 15px;">
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME" target="_blank" style="text-decoration: none; padding: 5px 10px; background: #21262d; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; font-size: 12px; margin-right: 5px;">📄 Source Code</a>
-        <a href="https://YOUR_LIVE_DEMO_URL" target="_blank" style="text-decoration: none; padding: 5px 10px; background: #238636; border-radius: 6px; color: white; font-size: 12px; font-weight: bold;">🌐 Live Demo</a>
-      </div>
+      <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME" target="_blank">📄 Source Code</a> | 
+      <a href="https://YOUR_LIVE_DEMO_URL" target="_blank">🌐 Live Demo</a>
     </td>
   </tr>
 </table>
