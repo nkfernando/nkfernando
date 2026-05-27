@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&height=200&section=header&text=Nirod%20Kalhara&fontSize=45&animation=twinkling&theme=tokyonight" alt="Header Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=700&height=70&lines=%E2%9A%A1+NIROD+KALHARA+%E2%9A%A1;SOFTWARE+ENGINEER;BUILDING+FUTURE-PROOF+UI" alt="Typing Header Banner" />
 </p>
 
-# Hi there, I'm a Software Engineer 👋
+---
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&width=500&lines=Software+Engineer;Full+Stack+Developer;Building+Future-Proof+UI" alt="Typing SVG" />
-</p>
+# Hi there, I'm Nirod 👋
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=00E5FF&style=flat-square" alt="Profile Views" />
@@ -30,7 +28,7 @@ Using high-end dynamic Skill Icons explicitly set to dark mode with smooth anima
 This service uses native SVG animations that bypass GitHub's image blocker completely.
 -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,wasm,react,nextjs,firebase,supabase,figma&perline=8&theme=dark&animate=true" alt="My Tech Stack" width="100%" />
+  <img src="https://skillicons.dev/icons?i=js,ts,wasm,react,nextjs,firebase,supabase,figma&perline=8&theme=dark&animate=true" alt="My Tech Stack" />
 </p>
 
 ---
