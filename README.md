@@ -61,7 +61,7 @@ This service uses native SVG animations that bypass GitHub's image blocker compl
       </p>
       <br />
       <a href="https://github.com/nkfernando/GifForge" target="_blank">📄 Source Code</a> | 
-      <a href="https://YOUR_LIVE_DEMO_URL" target="_blank">🌐 Live Demo</a>
+      <a href="https://gif-forge-khaki.vercel.app/" target="_blank">🌐 Live Demo</a>
     </td>
   </tr>
   
